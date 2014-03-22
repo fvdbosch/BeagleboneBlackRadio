@@ -122,6 +122,18 @@ html, body, form, p {
 	background-position: 50% 50%;
 }
 
+.save {
+	background: url(img/save.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.cancel {
+	background: url(img/cancel.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
 .on {
 	background-color: #FF8051;
 	-webkit-filter: invert(100%);
