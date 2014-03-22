@@ -1,0 +1,128 @@
+html, body, form, p {
+    height: 100%;
+    margin: 0;
+    padding: 0; 
+}
+
+#container {
+    height: 100%;
+    width: 100%; 
+	text-align: center;
+}
+
+#list {
+	border-collapse:collapse;
+	border-style: 1px solid black;
+    width: 100%; 
+	text-align: left;
+}
+
+.menu {
+	-webkit-appearance: button;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+.full {
+    height: 100%;
+    width: 100%; 
+}
+
+.third {
+    height: 100%;
+    width: 30%; 
+}
+
+.contain {
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.listen {
+	background: url(img/listen.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.manage {
+	background: url(img/manage.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.configure {
+	background: url(img/configure.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.play {
+	background: url(img/play.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.stop {
+	background: url(img/stop.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.next {
+	background: url(img/next.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.prev {
+	background: url(img/previous.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.fm {
+	background: url(img/radio.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.web {
+	background: url(img/web.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.volup {
+	background: url(img/vol+.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.voldown {
+	background: url(img/vol-.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.add {
+	background: url(img/add.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.edit {
+	background: url(img/edit.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.delete {
+	background: url(img/remove.png) no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+}
+
+.on {
+	background-color: #FF8051;
+	-webkit-filter: invert(100%);
+}
