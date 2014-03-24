@@ -4,6 +4,11 @@ html, body, form, p {
     padding: 0; 
 }
 
+select,input {
+	font-size: 20px;
+	width: 100%;
+}
+
 #container {
     height: 100%;
     width: 100%; 
@@ -117,7 +122,7 @@ html, body, form, p {
 }
 
 .delete {
-	background: url(img/remove.png) no-repeat;
+	background: url(img/delete.png) no-repeat;
 	background-size: contain;
 	background-position: 50% 50%;
 }
